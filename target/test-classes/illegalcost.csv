@@ -1,0 +1,8 @@
+from, to,length, width, height, weight, service_code ,error
+2122, 123, 10, 10, 1,20,AUS_PARCEL_EXPRESS,Please enter a valid To postcode.
+123, 2122, 10, 10, 1,20,AUS_PARCEL_EXPRESS,Please enter a valid From postcode.
+2122, 2122, 10, 10, 1,20,AUS_PPPPPPPP,Please enter a valid Service code.
+2122, 2122, 100000, 10, 1,20,AUS_PARCEL_EXPRESS,The length cannot exceed 105cm.
+2122, 2122, 10, 10000000, 1,20,AUS_PARCEL_EXPRESS,The width cannot exceed 105cm.
+2122, 2122, 10, 10, 1000,20,AUS_PARCEL_EXPRESS,The height cannot exceed 105cm.
+2122, 2122, 10, 10, 10,200000,AUS_PARCEL_EXPRESS,The maximum weight of a parcel is 22 kg.

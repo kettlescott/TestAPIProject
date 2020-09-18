@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+    <appSettings>
+        <add key="API_KEY" value="325f3901-e6c1-47ca-b858-5cb09cd57895" />
+    </appSettings>
+</configuration>
