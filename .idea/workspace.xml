@@ -23,18 +23,7 @@
     <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db673b3a-9b51-4481-89e4-600acd001cad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Testsuite.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/scott/api/json/error/Error.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/scott/api/json/error/RootError.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/scott/api/test/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/scott/api/test/NegativeCalculateCostTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/scott/api/test/NegativeLocationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/scott/api/test/NegativeServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/illegalcost.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/illegallocation.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/illegalservice.csv" afterDir="false" />
-    </list>
+    <list default="true" id="db673b3a-9b51-4481-89e4-600acd001cad" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -344,6 +333,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
