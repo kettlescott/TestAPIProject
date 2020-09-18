@@ -1,3 +1,3 @@
-from_post_code,from_state,to_post_code,to_state,cost
+from_post_code,from_state,to_post_code,to_state,length, width, height, weight,cost
 eastwood,NSW,BLAXLANDS RIDGE,NSW, 10,20,30,50,27.00
 HORNSBY HEIGHTS,NSW,BLAXLANDS CREEK,NSW,10,22,30,50,80.75

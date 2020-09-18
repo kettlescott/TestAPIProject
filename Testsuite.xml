@@ -19,7 +19,7 @@
             </class>
             <class name="com.scott.api.test.NegativeCalculateCostTest">
                 <methods>
-                    <include name="dataDrivenTest" />
+                    <include name="dataDrivenTest.0" />
                 </methods>
             </class>
         </classes>
