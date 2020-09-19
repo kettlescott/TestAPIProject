@@ -58,6 +58,14 @@ Configuration is under ./configuration.xml
 # Test Data
 Test Data is under ```/src/test/resources```
 
+# Test Data format CSV
+
+| from_post_code| from_state    |
+| ------------- |:-------------:|
+| col 3 is      | right-aligned |
+| col 2 is      | centered      |
+
+
 # Coding Style
 1.The java project follows google'java coding format, for detail please refer to [Google Java Format](https://github.com/google/google-java-format)
 
