@@ -60,7 +60,7 @@ Test Data is under /src/test/resources
 # Coding Style
 1.The java project follows google'java coding format, for detail please refer to [Google Java Format!](https://github.com/google/google-java-format)
 
-2.Run mvn git-code-format:format-code -Dgcf.globPattern=**/* to check and format java code
+2.Run ```mvn git-code-format:format-code -Dgcf.globPattern=**/*``` to check and format java code
 
 # Build and Test
 1.mvn clean install -DskipTests
