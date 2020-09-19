@@ -13,7 +13,7 @@
 
 # Update configuration.xml
 Configuration is under ./configuration.xml
-```
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <configuration>
     <appSettings>
@@ -24,7 +24,7 @@ Configuration is under ./configuration.xml
 
 # Update Testsuite.xml
 Configuration is under ./configuration.xml
-```
+```xml
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
 <suite name="TestSuite">
     <test name="HappyPath" >
@@ -49,7 +49,7 @@ Configuration is under ./configuration.xml
 
 
 # Test
-1. Happy Path is under EndToEndPositiveTest.java
+1. Happy Path is under ```java EndToEndPositiveTest.java```
 
 2. Negative test is under NegativeCalculateCostTest.java ,NegativeLocationTest.java ,NegativeServiceTest.java
 
