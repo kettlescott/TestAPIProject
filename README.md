@@ -4,8 +4,8 @@
   2. Maven >= Apache Maven 3.6.1
 
 # Framework Introduction
-1. This tiny framework is based on rest assured and testng
-2. Data driven framework
+> This tiny framework is based on rest assured and testng
+>  Data driven framework
 
 
 # Project structure
@@ -63,10 +63,10 @@ Test Data is under ```/src/test/resources```
 2.Run ```mvn git-code-format:format-code -Dgcf.globPattern=**/*``` to check and format java code
 
 # Build and Test
-1.mvn clean install -DskipTests
+1. Run ```mvn clean install -DskipTests```
 
-2.Run ```mvn test -Dsurefire.suiteXmlFiles=".\Testsuite.xml" -DconfigFilePath=".\configuration.xml"```
+2. Run ```mvn test -Dsurefire.suiteXmlFiles=".\Testsuite.xml" -DconfigFilePath=".\configuration.xml"```
 
-3.test report is under ```.\target\surefire-reports```
+3. test report is under ```.\target\surefire-reports```
 
 
