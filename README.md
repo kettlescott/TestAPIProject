@@ -9,7 +9,7 @@
 
 
 # Project structure
-![alt text](https://github.com/kettlescott/TestUIAutomation/blob/master/Automation.jpg)
+![alt text](https://github.com/kettlescott/TestAPIProject/blob/master/Automation.jpg)
 
 # Update configuration.xml
 Configuration is under ./configuration.xml
