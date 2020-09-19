@@ -62,8 +62,8 @@ Test Data is under ```/src/test/resources```
 
 | from_post_code| from_state    |
 | ------------- |:-------------:|
-| col 3 is      | right-aligned |
-| col 2 is      | centered      |
+| EASTWOOD      | BLAXLANDS RIDGE |
+| BLAXLANDS RIDGE     | EPPING      |
 
 
 # Coding Style
