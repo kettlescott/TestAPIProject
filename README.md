@@ -48,9 +48,9 @@ Configuration is under ./configuration.xml
 
 
 # Test
-1. Happy Path is under HappyPathTest.java
+1. Happy Path is under EndToEndPositiveTest.java
 
-2. Negative test is under NegativePathTest.java
+2. Negative test is under NegativeCalculateCostTest.java ,NegativeLocationTest.java ,NegativeServiceTest.java
 
 
 # Coding Style
