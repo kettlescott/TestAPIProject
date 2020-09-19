@@ -55,7 +55,7 @@ Configuration is under ./configuration.xml
 
 
 # Test Data
-Test Data is under /src/test/resources
+Test Data is under ```/src/test/resources```
 
 # Coding Style
 1.The java project follows google'java coding format, for detail please refer to [Google Java Format](https://github.com/google/google-java-format)
