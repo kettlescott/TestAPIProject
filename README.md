@@ -67,6 +67,6 @@ Test Data is under /src/test/resources
 
 2.Run mvn test -Dsurefire.suiteXmlFiles=".\Testsuite.xml" -DconfigFilePath=".\configuration.xml"
 
-3.test report is under target folder
+3.test report is under .\target\surefire-reports
 
 
