@@ -4,7 +4,8 @@
   2. Maven >= Apache Maven 3.6.1
 
 # Framework Introduction
-This tiny framework is based on rest assured and testng
+1. This tiny framework is based on rest assured and testng
+2. Data driven framework
 
 
 # Project structure
