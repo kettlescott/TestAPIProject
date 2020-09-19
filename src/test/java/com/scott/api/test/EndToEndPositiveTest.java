@@ -88,7 +88,6 @@ public class EndToEndPositiveTest extends BaseTest {
 
     Assert.assertTrue(
         rootService.services.service.size() != 0, "could not find valid service code");
-    System.out.println(rootService.services.service.get(0).code);
     service.serviceCode(rootService.services.service.get(0).code);
 
     return service;
