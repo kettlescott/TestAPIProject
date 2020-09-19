@@ -1,26 +1,18 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
-<suite name="CPGroupTest">
-    <test name="CPGroupTest" >
+<suite name="TestSuite">
+    <test name="HappyPath" >
         <classes>
             <class name="com.scott.api.test.EndToEndPositiveTest">
-                <methods>
-                    <include name="dataDrivenTest" />
-                </methods>
             </class>
+        </classes>
+    </test>
+    <test name="Negative Test" >
+        <classes>
             <class name="com.scott.api.test.NegativeLocationTest">
-                <methods>
-                    <include name="dataDrivenTest" />
-                </methods>
             </class>
             <class name="com.scott.api.test.NegativeServiceTest">
-                <methods>
-                    <include name="dataDrivenTest" />
-                </methods>
             </class>
             <class name="com.scott.api.test.NegativeCalculateCostTest">
-                <methods>
-                    <include name="dataDrivenTest.0" />
-                </methods>
             </class>
         </classes>
     </test>
