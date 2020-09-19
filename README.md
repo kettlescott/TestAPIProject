@@ -49,16 +49,16 @@ Configuration is under ./configuration.xml
 
 
 # Test
-1. Happy Path is under ```java EndToEndPositiveTest.java```
+1. Happy Path is under ```EndToEndPositiveTest.java```
 
-2. Negative test is under NegativeCalculateCostTest.java ,NegativeLocationTest.java ,NegativeServiceTest.java
+2. Negative test is under ```NegativeCalculateCostTest.java ,NegativeLocationTest.java ,NegativeServiceTest.java```
 
 
 # Test Data
 Test Data is under /src/test/resources
 
 # Coding Style
-1.The java project follows google'java coding format, for detail please refer to [Google Java Format!](https://github.com/google/google-java-format)
+1.The java project follows google'java coding format, for detail please refer to [Google Java Format](https://github.com/google/google-java-format)
 
 2.Run ```mvn git-code-format:format-code -Dgcf.globPattern=**/*``` to check and format java code
 
@@ -67,6 +67,6 @@ Test Data is under /src/test/resources
 
 2.Run ```mvn test -Dsurefire.suiteXmlFiles=".\Testsuite.xml" -DconfigFilePath=".\configuration.xml"```
 
-3.test report is under .\target\surefire-reports
+3.test report is under ```.\target\surefire-reports```
 
 
