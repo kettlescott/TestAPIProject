@@ -13,7 +13,7 @@
 ![alt text](https://github.com/kettlescott/TestAPIProject/blob/master/Automation.jpg)
 
 # Update configuration.xml
-Configuration is under ./configuration.xml
+Configuration is under ```./configuration.xml```
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <configuration>
@@ -24,7 +24,7 @@ Configuration is under ./configuration.xml
 ```
 
 # Update Testsuite.xml
-Configuration is under ./configuration.xml
+Configuration is under ```./Testsuite.xml```
 ```xml
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
 <suite name="TestSuite">
