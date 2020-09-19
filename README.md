@@ -5,7 +5,8 @@
 
 # Framework Introduction
 > This tiny framework is based on rest assured and testng
->  Data driven framework
+
+> it is Data driven framework
 
 
 # Project structure
